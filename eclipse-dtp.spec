@@ -3,7 +3,7 @@
 
 Name:      eclipse-dtp
 Version:   1.8.2
-Release:   1
+Release:   3
 Summary:   Eclipse Data Tools Platform
 Group:     Development/Java
 License:   EPL
