@@ -7,7 +7,7 @@ Release:   3
 Summary:   Eclipse Data Tools Platform
 Group:     Development/Java
 License:   EPL
-URL:       http://www.eclipse.org/datatools/
+URL:       https://www.eclipse.org/datatools/
 
 # source tarball and the script used to generate it from upstream's source control
 # script usage:
